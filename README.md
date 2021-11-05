@@ -23,7 +23,7 @@
 </p>
 
 ### Frameworks and Libraries
-
+<p>
   <img src="https://img.shields.io/badge/Hyperledger-Fabric-blue"/>
   <img src="https://img.shields.io/badge/Hyperledger-Sawtooth-blue"/>
   <img src="https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white"/>
@@ -31,13 +31,15 @@
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-  
+</p>
+
 ### Hosting/SaaS/Servers
+<p>
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
   <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>
-  
+</p> 
   <img src="">
 
 [![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=ayushverma13&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/ayushverma13/github-readme-stats)
