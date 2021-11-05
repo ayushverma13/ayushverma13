@@ -11,12 +11,7 @@
 
 ### 👨‍🏭: Work Experience
 
-| Deloitte USI Advisory | Period of work (11/2020 - Current) | Solution Delivery Analyst for the Securitization gruop (Securitization is the procedure where an issuer designs a
-marketable financial instrument by merging or pooling various financial
-assets into one group. The issuer then sells this group of repackaged
-assets to investors. Securitization offers opportunities for investors and
-frees up capital for originators, both of which promote liquidity in the
-marketplace.) |
+| Deloitte USI Advisory | Period of work (11/2020 - Current) | 
 |:---------:|:----------------------------------:|
 | Selenium, Python |  |
 | Solution Delivery Analyst |  |
