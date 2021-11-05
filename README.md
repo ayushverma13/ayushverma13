@@ -11,18 +11,23 @@
 
 ### 👨‍🏭: Work Experience
 
-| Deloitte USI Advisory | Period of work (11/2020 - Current) |
+| Deloitte USI Advisory | Period of work (11/2020 - Current) | Solution Delivery Analyst for the Securitization gruop (Securitization is the procedure where an issuer designs a
+marketable financial instrument by merging or pooling various financial
+assets into one group. The issuer then sells this group of repackaged
+assets to investors. Securitization offers opportunities for investors and
+frees up capital for originators, both of which promote liquidity in the
+marketplace.) |
 |:---------:|:----------------------------------:|
-| Solution Delivery Analyst | Created a web scraping tool using Selenium to clear authentication layers, identify data to be pulled from the web page, and get that data in a structured format for easy use .
-Created automations for securitization deal modelling that included a scrapper tool that reads, and processes run level data(XML format) from incoming docx files, pulls out the relevant structures , and transforms the data in an unstructured format to a structured format needed for facilitating the report generation .
-Created tree based algorithms to generate data structures originating from source file to multiple subsidiaries the information of which is extracted from the source , and generate Reports based on the scraped data to be configured and used by an internal tool to validate various deal level informations, summary reports on the basis of test results , prescriptive reports indicative of outliers.
-Automated test cases in a manual testing set up , and creating a validation report for the modeller of the deal. |
+| Selenium, Python |  |
+| Solution Delivery Analyst |  |
+| Solution Delivery Analyst |  |
+| Solution Delivery Analyst |  |
 
-| Company 2 | Period of work (mm/yyyy - mm/yyyy) |
+| Company 2 | Period of work (mm/yyyy - mm/yyyy) | Solution Delivery Analyst |
 |:---------:|:----------------------------------:|
 | Position 2 | Description about position 2 |
 
-| Company 3 | Period of work (mm/yyyy - mm/yyyy) |
+| Company 3 | Period of work (mm/yyyy - mm/yyyy) | Solution Delivery Analyst |
 |:---------:|:----------------------------------:|
 | Position 3 | Description about position 3 |
 
