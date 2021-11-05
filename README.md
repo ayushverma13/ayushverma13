@@ -9,10 +9,23 @@
   - :office: [LinkedIn](https://www.linkedin.com/in/ayush-verma-99324a147/)
 
 
+### 👨‍🏭: Work Experience
+
+| Deloitte USI Advisory | Period of work (11/2020 - Current) |
+|:---------:|:----------------------------------:|
+| Position 1 | Description about position 1 |
+
+| Company 2 | Period of work (mm/yyyy - mm/yyyy) |
+|:---------:|:----------------------------------:|
+| Position 2 | Description about position 2 |
+
+| Company 3 | Period of work (mm/yyyy - mm/yyyy) |
+|:---------:|:----------------------------------:|
+| Position 3 | Description about position 3 |
+
 ### 💻: Programming Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" />
   <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white">
@@ -26,11 +39,16 @@
 <p>
   <img src="https://img.shields.io/badge/Hyperledger-Fabric-blue"/>
   <img src="https://img.shields.io/badge/Hyperledger-Sawtooth-blue"/>
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
   <img src="https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white"/>
   <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"/>
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white">
+  <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white">
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
 </p>
 
 ### Hosting/SaaS/Servers
