@@ -13,7 +13,7 @@
 
 | Deloitte USI Advisory | Period of work (11/2020 - Current) |
 |:---------:|:----------------------------------:|
-| Position 1 | Description about position 1 |
+| Solution Delivery Analyst | Description about position 1 |
 
 | Company 2 | Period of work (mm/yyyy - mm/yyyy) |
 |:---------:|:----------------------------------:|
@@ -39,6 +39,7 @@
 <p>
   <img src="https://img.shields.io/badge/Hyperledger-Fabric-blue"/>
   <img src="https://img.shields.io/badge/Hyperledger-Sawtooth-blue"/>
+  <img src="https://img.shields.io/badge/Selenium-blue"/>
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
   <img src="https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white"/>
   <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"/>
