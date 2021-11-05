@@ -9,3 +9,4 @@
   - 📫: [Email](ayushverma1321@gmail.com)
   - :office: [LinkedIn](https://www.linkedin.com/in/ayush-verma-99324a147/)
 
+[![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=ayushverma13&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
