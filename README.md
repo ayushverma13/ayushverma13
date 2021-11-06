@@ -12,7 +12,7 @@
 ### 👨‍🏭: Work Experience
 
 | Deloitte USI Advisory | Period of work (11/2020 - Current) | 
-|Solution Delivery Analyst for the Securitization gruop (Securitization is the procedure where an issuer designs a marketable financial instrument by merging or pooling various financial assets into one group. The issuer then sells this group of repackaged assets to investors. Securitization offers opportunities for investors and frees up capital for originators, both of which promote liquidity in the marketplace.) |  |
+Solution Delivery Analyst for the Securitization gruop (Securitization is the procedure where an issuer designs a marketable financial instrument by merging or pooling various financial assets into one group. The issuer then sells this group of repackaged assets to investors. Securitization offers opportunities for investors and frees up capital for originators, both of which promote liquidity in the marketplace.)
 |:---------:|:----------------------------------:|
 | Selenium, Python |  |
 | Solution Delivery Analyst |  |
@@ -44,16 +44,16 @@
   <img src="https://img.shields.io/badge/Hyperledger-Fabric-blue"/>
   <img src="https://img.shields.io/badge/Hyperledger-Sawtooth-blue"/>
   <img src="https://img.shields.io/badge/Selenium-blue"/>
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white"/>
   <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"/>
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white">
-  <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white">
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white"/>
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
 </p>
 
 ### Hosting/SaaS/Servers
