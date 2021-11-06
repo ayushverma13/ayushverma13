@@ -14,7 +14,11 @@
 | Deloitte USI Advisory | Period of work (11/2020 - Current) | 
 |:---------:|:----------------------------------:|
 Solution Delivery Analyst for the Securitization gruop (Securitization is the procedure where an issuer designs a marketable financial instrument by merging or pooling various financial assets into one group. The issuer then sells this group of repackaged assets to investors. Securitization offers opportunities for investors and frees up capital for originators, both of which promote liquidity in the marketplace.)
-| Selenium, Python |  |
+| Tools | Task |
+| Selenium, MySQL, Python |  Ayush also contributed with his
+developing scripts for web scraping information from public websites,
+and structuring the unstructured data that was uploaded and needed to
+be stored in databases
 | Solution Delivery Analyst |  |
 | Solution Delivery Analyst |  |
 | Solution Delivery Analyst |  |
