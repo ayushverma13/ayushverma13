@@ -15,6 +15,7 @@
 |:---------:|:----------------------------------:|
 | Role/Position | Solution Delivery Analyst for the Securitization group (Securitization is the procedure where an issuer designs a marketable financial instrument by merging or pooling various financial assets into one group. The issuer then sells this group of repackaged assets to investors. Securitization offers opportunities for investors and frees up capital for originators, both of which promote liquidity in the marketplace.) | 
 | Impact | The solution developed helped Deloitte prove to the client our capability to complete enormous amounts of work in a timely manner giving Deloitte the ability to get 2 weeks’ worth of done in a days’ time.|
+| | |
 | Tools | Task |
 | Selenium, MySQL, Python |  Developing scripts for web scraping information from public websites with validations, and structuring the unstructured data that was uploaded and needed to be stored in databases |
 | Python, XML, ElementTree, openpyxl, pandas, numpy  | Creating algorithms for extracting information from a series of excel and word files based on the primary input file using a k-ary tree algorithm , identify nodes , and transform the extracted data. |
