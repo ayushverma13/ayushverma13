@@ -124,7 +124,7 @@
 </p> 
   <img src="">
 
-[![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=ayushverma13&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/ayushverma13/github-readme-stats)
+<!-- [![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=ayushverma13&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/ayushverma13/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushverma13)](https://github.com/ayushverma13/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushverma13)](https://github.com/ayushverma13/github-readme-stats) -->
 
