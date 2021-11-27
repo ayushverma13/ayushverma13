@@ -50,7 +50,7 @@
 | Deloitte in India (Offices of the US) | Period of work (01/2020 - 04/2020) |
 |:---------:|:----------------------------------:|
 | Role/Position | Intern Analyst |
-| Impact |  Worked on development of a PasS solution for automation and orchestration of web-based applications, and development of additional micro services using Django .|
+| Impact |  Worked on development of a PaaS solution for automation and orchestration of web-based applications, and development of additional micro services using Django .|
 | | |
 | Tools | Task |
 | Python, AWS, Docker, Kubernetes | Implementing a process curating service for client-side ERP tools through secure communication protocols, and other functionalities like database management , NoSQL databases like key-value stores in S3 buckets, a caching service for the web app, notification service triggered lambda functions, adding registration and authentication to Web applications and backup service for data on the web apps .Wrote Python code to incorporate various AWS services like S3 , elasticache , SNS , lambda functions to trigger glacier, deep glacier storage , and learnt and used DevOps tools Docker, and Kubernetes for deployment and orchestration on these microservices. |
