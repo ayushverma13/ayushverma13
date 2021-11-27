@@ -50,10 +50,10 @@
 | Deloitte in India (Offices of the US) | Period of work (01/2020 - 04/2020) |
 |:---------:|:----------------------------------:|
 | Role/Position | Intern Analyst |
-| Impact | Working in a team of 4 interns on development of additional micro services for a Django app used for automating ERP implementation tasks.|
+| Impact |  Worked on development of a PasS solution for automation and orchestration of web-based applications, and development of additional micro services using Django .|
 | | |
 | Tools | Task |
-| Python, AWS, Docker, Kubernetes | Wrote Python code to incorporate various AWS services like S3 , elasticache , SNS , lambda functions to trigger glacier, deep glacier storage , and learnt and used DevOps tools Docker, and Kubernetes for deployment and orchestration on these microservices. |
+| Python, AWS, Docker, Kubernetes | Implementing a process curating service for client-side ERP tools through secure communication protocols, and other functionalities like database management , NoSQL databases like key-value stores in S3 buckets, a caching service for the web app, notification service triggered lambda functions, adding registration and authentication to Web applications and backup service for data on the web apps .Wrote Python code to incorporate various AWS services like S3 , elasticache , SNS , lambda functions to trigger glacier, deep glacier storage , and learnt and used DevOps tools Docker, and Kubernetes for deployment and orchestration on these microservices. |
 | R | Created R scripts automating various report generations. |
 | XML, VANETSim, Routing algorithms like A* | Collaborated on a topic to show the benefits of edge computing under a innovation project during the Deloitte winter internship program -- To simulate and show the advantages of edge computing for managing traffic flow by dynamically allocating the time gap between each traffic signal light change , so that there’s a smooth flow of traffic , get a prior indication of schools , ambulances , damaged roads , and hence prevent sudden braking and other cases of possible accidents by enabling communication between vehicles for such anomalies , and the information getting relayed to other nodes through hubs installed in the traffic signals . Creating xml files for configuring routing algorithms and various cases to be simulated in VANETsim software. |
 
