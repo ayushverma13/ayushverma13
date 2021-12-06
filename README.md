@@ -39,18 +39,14 @@
 | -- | Did a few udemy courses - Design and develop Fabric 2.1 applications from end- to-end using GoLang & Fabric Node, Hyperledger Fabric 2.x Network Design & Setup, and the documentations of the projects under the hyperledger umbrella to understand the development of enterprises level blockchain products. I studied about hyperledger fabric and sawtooth. | 
 | | |
 | -- | Task |
-| -- | Learnt about Network Setup and chain code basics for Hyperledger Fabric and dev ops tools like Docker and
-Kubernetes, using this to experiment with sample projects and creating a simple chain code deployment to track the
-lifecycle of a purchase order inside an organisation through various stages from an email entry to the final shipment |
-| -- | Also learnt about the Sawtooth architechture deploying single and multinode testing programs, to create and play
-with transaction processors for current sample projects like Sawtooth Marketplace and Simple Supply . |
+| -- | Learnt about Network Setup and chain code basics for Hyperledger Fabric and dev ops tools like Docker and Kubernetes, using this to experiment with sample projects and creating a simple chain code deployment to track the lifecycle of a purchase order inside an organisation through various stages from an email entry to the final shipment |
+| -- | Also learnt about the Sawtooth architechture deploying single and multinode testing programs, to create and play with transaction processors for current sample projects like Sawtooth Marketplace and Simple Supply . |
 
 ## Ethereum Dapp
 | Personal Project ( Github ) | Period of work ( 11/2020 ) | 
 |:---------:|:----------------------------------:|
 | -- | Implemented my learning from the Blockchain Specialization from University at Buffalo, offered at Coursera, and blogs at dappuniversity| 
-| Impact | Implimented a truffle project for a Marketplace for medicine suppliers, hospitals, and manufacturers with the idea to
-mitigate the high reshipping costs in the selling price of essential drugs due to their low shelf lives. |
+| Impact | Implimented a truffle project for a Marketplace for medicine suppliers, hospitals, and manufacturers with the idea to mitigate the high reshipping costs in the selling price of essential drugs due to their low shelf lives. |
 | | |
 | Tools | Task |
 | Truffle, Metamask, Ganache, JavaScript, Python, Solidity | I achieved this using the Truffle IDE to create a front-end client interface, Solidity smart contracts enabling bidding and auction of the drugs on the catalogue on the basis of the remaining shelf life, a simple web client and a MetaMask client. |
