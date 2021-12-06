@@ -17,7 +17,7 @@
 | -- | Implementing my learning from the book — Foundations of Reinforcement Learning with Applications in Finance (Ashwin Rao, Tikhon Jelvis ) | 
 | Impact | The solution developed will help any person build on the trading strategy he wishes to implement and make that better. Solving Financial Trading problems, including Dynamic Asset-Allocation to maximize Utility of Consumption, Pricing and Hedging of Derivatives in an Incomplete Market, Optimal Exercise/Stopping of Path-Dependent American Options – Optimal Trade Order Execution(managing Price Impact), Optimal Market-Making (Bid/Ask managing Inventory Risk)|
 | | |
-| Tools | Task |
+| -- | Task |
 | -- |  Creating and defining an ideal state-space, action-space, and reward mechanisms for Markov Decision Processes modelling different trading strategies, and also balancing the exploration exploitation tradeoffs for the same. |
 | --  | Implimenting and experimenting various Dynamic Programming Algorithms (Planning Algorithms: policy and value iteration), and a number of Reinforcement Learning Algorithms, including Gradient Temporal Difference, Deep Q-Network, Least- Squares Policy Iteration, Policy Gradient, Monte-Carlo Tree Search , to solve the Markov decision process. |
 | -- | Researching on finding the ideal tradeoff point for POMDP (Parrtially observable Markov Decision Processes) |
@@ -36,24 +36,25 @@
 ## Hyperledger Fabric Chain Code / Sawtooth Transaction Processor
 | Personal Project ( Github ) | Period of work ( 05/2021 ) | 
 |:---------:|:----------------------------------:|
-| -- | | 
-| Impact | |
+| -- | Did a few udemy courses - Design and develop Fabric 2.1 applications from end- to-end using GoLang & Fabric Node, Hyperledger Fabric 2.x Network Design & Setup, and the documentations of the projects under the hyperledger umbrella to understand the development of enterprises level blockchain products. I studied about hyperledger fabric and sawtooth. | 
 | | |
-| Tools | Task |
-| -- | |
-| -- | |
-| -- | |
+| -- | Task |
+| -- | Learnt about Network Setup and chain code basics for Hyperledger Fabric and dev ops tools like Docker and
+Kubernetes, using this to experiment with sample projects and creating a simple chain code deployment to track the
+lifecycle of a purchase order inside an organisation through various stages from an email entry to the final shipment |
+| -- | Also learnt about the Sawtooth architechture deploying single and multinode testing programs, to create and play
+with transaction processors for current sample projects like Sawtooth Marketplace and Simple Supply . |
 
 ## Ethereum Dapp
 | Personal Project ( Github ) | Period of work ( 11/2020 ) | 
 |:---------:|:----------------------------------:|
-| -- | | 
-| Impact | |
+| -- | Implemented my learning from the Blockchain Specialization from University at Buffalo, offered at Coursera, and blogs at dappuniversity| 
+| Impact | Implimented a truffle project for a Marketplace for medicine suppliers, hospitals, and manufacturers with the idea to
+mitigate the high reshipping costs in the selling price of essential drugs due to their low shelf lives. |
 | | |
 | Tools | Task |
-| -- | |
-| -- | |
-| -- | |
+| Truffle, Metamask, Ganache, JavaScript, Python, Solidity | I achieved this using the Truffle IDE to create a front-end client interface, Solidity smart contracts enabling bidding and auction of the drugs on the catalogue on the basis of the remaining shelf life, a simple web client and a MetaMask client. |
+| -- | Created sample smart contracts for various applications and transactions to test and deploy them in the Remix development environment, and invoke them from a simple web interface that Remix provides. |
 
 ## Gem Technologies
 | Gem Technologies | Period of work (05/2020 - 11/2020) |
@@ -82,13 +83,14 @@
 ## Reinforcement Learning Moon Lander
 | Personal Project ( Github ) | Period of work ( 06/2020 ) | 
 |:---------:|:----------------------------------:|
-| -- | | 
-| Impact | |
+| -- | As a part of the capstone project in the Reinforcement Learning Specialization authorized by University of Alberta, Alberta Machine Intelligence Institute on Coursera (Certificates attached below) , I worked on modelling a Rocket lander agent to land ideally with respect to a particular site by minimizing the use thrusters to tilt it, and I turn maximize the fuel reserve after landing . | 
 | | |
 | Tools | Task |
-| -- | |
-| -- | |
-| -- | |
+| -- | Created the state and action space and the reward function using the Lunar Lander environment provided. |
+| -- | Used algorithms like Expected Sarsa, Q-learning, and Actor Critic models for solving this MDP and find which is a
+good fit for this problem. |
+| -- | Implimented the meta-parameter choices and function approximator (with Neural Networks), while balancing
+exploration and exploitation tradeoffs . |
 
 ## Deloiite USI
 | Deloitte in India (Offices of the US) | Period of work (01/2020 - 04/2020) |
