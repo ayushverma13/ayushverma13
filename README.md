@@ -43,7 +43,7 @@
 | -- | Also learnt about the Sawtooth architechture deploying single and multinode testing programs, to create and play with transaction processors for current sample projects like Sawtooth Marketplace and Simple Supply . |
 
 ## Ethereum Dapp
-| Personal Project ( [Github](https://github.com/ayushverma13/EthereumDapps_Truffle) ) | Period of work ( 11/2020 ) | 
+| Personal Project ( [Github Repository](https://github.com/ayushverma13/EthereumDapps_Truffle) ) | Period of work ( 11/2020 ) | 
 |:---------:|:----------------------------------:|
 | -- | Implemented my learning from the Blockchain Specialization from University at Buffalo, offered at Coursera, and blogs at dappuniversity| 
 | Impact | Implimented a truffle project for a Marketplace for medicine suppliers, hospitals, and manufacturers with the idea to mitigate the high reshipping costs in the selling price of essential drugs due to their low shelf lives. |
@@ -96,6 +96,19 @@
 | Python, AWS, Docker, Kubernetes | Worked on development of additional micro services for a PaaS solution for automation and orchestration of web-based applications, by using Django and DevOps tools like Docker and Kubernetes for deploying the Python code incorporating various AWS services like S3, elasticache, SNS, lambda functions to trigger glacier, deep glacier storage. |
 | R | Created R scripts automating various report generations. |
 | XML, VANETSim, Routing algorithms like A* | Collaborated on a topic to show the benefits of edge computing under a innovation project during the Deloitte winter internship program -- To simulate and show the advantages of edge computing for managing traffic flow by dynamically allocating the time gap between each traffic signal light change , so that there’s a smooth flow of traffic , get a prior indication of schools , ambulances , damaged roads , and hence prevent sudden braking and other cases of possible accidents by enabling communication between vehicles for such anomalies , and the information getting relayed to other nodes through hubs installed in the traffic signals . Creating xml files for configuring routing algorithms and various cases to be simulated in VANETsim software. |
+
+## Analysis of security attacks on Wireless Networks using NS2
+| Manipal Institute of Technology | Period of work ( 09/2019 - 10/2019 ) | 
+|:---------:|:----------------------------------:|
+| -- | Worked on implementation of two basic attacks namely Black Hole attack and DoS were being simulated using QualNet and their impact on the network services was analysed under different scenarios. |
+| | |
+| Black hole attack | In the Black Hole attack, the malicious node absorbs all the incoming traffic not intended for it. As a result of which, the node does not route or forward the messages intended for other nodes in the network. This attack has a considerable effect on various Quality of Service parameters like throughput, number of packets received, delay etc. |
+| DoS by Hello Flooding attack | Denial of Service (DoS) is a class of attack wherein the objective of the attack is to make network resources unavailable to its intended users. One of the most common way to perform this attack is to flood the network with unsolicited, overwhelming flux of packets, thereby saturating the bandwidth and depleting the target system resource |
+| | |
+| -- | To understand the impact of these attacks on various parameters like throughput, packets dropped, end to end delay etc.  |
+| -- | A generic WSN model was created in QualNet and necessary changes made in the code library to simulate the attacks, a simulation study in QualNet comprises of the following phases. |
+<img width="619" alt="Screenshot 2021-12-08 at 11 26 01 AM" src="https://user-images.githubusercontent.com/46970571/145156038-e22e0d14-4bd2-4ab7-8d08-bf085733edfe.png">
+
 
 ## Accenture Consulting
 | Accenture Consulting | Period of work (05/2019 - 07/2019) |
