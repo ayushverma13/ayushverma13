@@ -77,16 +77,14 @@
 | Tools | Task |
 
 ## Reinforcement Learning Moon Lander
-| Personal Project ( [Github](https://github.com/ayushverma13/Coursera-reinforcement-learning-specialization-University-of-Alberta) ) | Period of work ( 06/2020 ) | 
+| Personal Project ( [Github Repository](https://github.com/ayushverma13/Coursera-reinforcement-learning-specialization-University-of-Alberta) ) | Period of work ( 06/2020 ) | 
 |:---------:|:----------------------------------:|
 | -- | As a part of the capstone project in the Reinforcement Learning Specialization authorized by University of Alberta, Alberta Machine Intelligence Institute on Coursera (Certificates attached below) , I worked on modelling a Rocket lander agent to land ideally with respect to a particular site by minimizing the use thrusters to tilt it, and I turn maximize the fuel reserve after landing . | 
 | | |
 | Tools | Task |
 | -- | Created the state and action space and the reward function using the Lunar Lander environment provided. |
-| -- | Used algorithms like Expected Sarsa, Q-learning, and Actor Critic models for solving this MDP and find which is a
-good fit for this problem. |
-| -- | Implimented the meta-parameter choices and function approximator (with Neural Networks), while balancing
-exploration and exploitation tradeoffs . |
+| -- | Used algorithms like Expected Sarsa, Q-learning, and Actor Critic models for solving this MDP and find which is a good fit for this problem. |
+| -- | Implimented the meta-parameter choices and function approximator (with Neural Networks), while balancing exploration and exploitation tradeoffs . |
 
 ## Deloiite USI
 | Deloitte in India (Offices of the US) | Period of work (01/2020 - 04/2020) |
