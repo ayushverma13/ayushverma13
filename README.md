@@ -120,6 +120,17 @@ exploration and exploitation tradeoffs . |
 | R, fpp2, dplyr, tidyr | Description about position 3 |
 | Tools | Task |
 
+## VLSI implementation of Huffman encoder and Decoder using Binary Tree Algorithm
+| Manipal Institute of Technology | Period of work ( 09/2018 - 10/2018 ) | 
+|:---------:|:----------------------------------:|
+| -- | Worked on implementation of a compression technique, which is useful in digital systems as it reduces the channel bandwidths and storage size. |
+| | |
+| -- | Task |
+| -- | This project was on a Huffman decoder based on binary tree method for improving usage of memory and bandwidth. Huffman decoder was implemented by using ASIC and FPGA design methodologies. These simulations were carried out by using Modelsim tool. |
+
+<img width="909" alt="Screenshot 2021-12-08 at 11 04 21 AM" src="https://user-images.githubusercontent.com/46970571/145154017-331acc8b-5c25-4394-a593-0f5fece9fa78.png">
+
+
 ## Data Science Technologies PVT. LTD. 
 | Data Science Technologies PVT. LTD. | Period of work (05/2018 - 07/2018) |
 |:---------:|:----------------------------------:|
