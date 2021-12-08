@@ -163,6 +163,32 @@
 | R, fpp2, dplyr, tidyr, caret | Researched on and created accurate forecasting models on Sales data, in this process experimented with numerous Time Series and Deep Learning models.Also learnt the nuances of creating intelligent enterprise technologies, where prescriptive insights are generated in a 'touch-less' fashion, and consumed by the client on his Sales app. |
 | Tools | Task |
 
+# Technical Certifications
+
+## Coursera
+Course 	Date	Credential ID
+Decentralized Applications , University at Buffalo	Oct 2020	8HJ5GBQA8KV9
+Smart Contracts , University at Buffalo	Sep 2020	PD43AK2TNEQR
+Blockchain Basics , University at Buffalo	Aug 2020	2V6QFDQRKCQR
+Reinforcement Learning Specialization, University of Alberta	Jun 2020	FZQZXQ99MD4L
+A Complete Reinforcement Learning System (Capstone), University of Alberta	Jun 2020	MHMEGTANP54C
+Prediction and Control with Function Approximation, University of Alberta	Jun 2020	Y2KUNHGSFFWV
+Sample-based Learning Methods, University of Alberta	May 2020	C9GJFDUFWG2A
+Fundamentals of Reinforcement Learning, University of Alberta	May 2020	PQMP4KR5EXLG
+AWS Fundamentals: Going Cloud-Native	Apr 2020	KMATAS2385VS
+Statistical Inference, John Hopkins University	Oct 2019	AM38RTMDETUD
+Developing Data Products, John Hopkins University	Oct 2019	66FZ9K8HYSU2
+Practical Machine Learning, John Hopkins University	Oct 2019	UTHFWDMPVQ47
+Regression Models, John Hopkins University	Oct 2019	8B29CHFQCHL3
+Python Data Structures, University of Michigan	May 2019	NCYZEYNKCX75
+Programming for Everybody (Getting Started with Python), University of Michigan	May 2019	Y2NX8T4U728P
+Reproducible Research, John Hopkins University	Apr 2019	N5Z6B74ETY9J
+Exploratory Data Analysis, John Hopkins University	Apr 2019	QHSPPP3B7XGE
+Getting and Cleaning Data, John Hopkins University	Apr 2019	9NZSKH3GRT6L
+R Programming, John Hopkins University	Mar 2019	642B5ZJUVHCN
+Machine Learning 	Nov 2017	ETVX389U3M5A![image](https://user-images.githubusercontent.com/46970571/145158531-2c852edb-42b7-4ff8-a59f-9f5791d1cfc2.png)
+
+
 # 💻: Programming Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
