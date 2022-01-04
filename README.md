@@ -64,8 +64,7 @@
 | -- | The agent here was trained on the historical sales and pricing data, the transit time, calculated through the difference of days in between issuing and subsequent delivery logged in the accounting software of a purchase order, and the inventory states defined by the annual gaps in sale and purchase of the product.|
 | Appscript for curating Google Suite apps | Built a web based Purchase order tracking tool, using AppScript on google suite for tracking its location in the pipeline from various stages in production, testing, logistics, accounts department.Linked this tool an analytics deck deployed through a Flask microservice for prescriptive report generation and Time series forecasting on sales data and payment cycles.This report helped in employee performance tracking and incentivising tasks based on scores recieved, eventually improving efficiency and reducing delays by 23% per month. |
 
-https://user-images.githubusercontent.com/46970571/148009962-4b6b34bc-a2b5-4f14-8052-87eddef7491c.mp4
-
+https://user-images.githubusercontent.com/46970571/148010213-fca5510e-0028-45d3-bfd3-0900d3fb67d4.mp4
 
 ## Data Science Technologies PVT. LTD
 | Data Science Technologies PVT. LTD | Period of work (06/2020 - 11/2020) |
