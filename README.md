@@ -12,12 +12,14 @@
 # 👨‍🏭: Work Experience and Projects
 
 ## RL Trading Bot
-| Personal Project | Period of work ( Currently working on it ) | 
+| Personal Project ( [Repository](https://github.com/ayushverma13/RL-Trading-Bot) )| Period of work ( Currently working on it ) | 
 |:---------:|:----------------------------------:|
 | -- | Implementing my learning from the book — Foundations of Reinforcement Learning with Applications in Finance (Ashwin Rao, Tikhon Jelvis ) | 
 | Impact | The solution developed will help any person build on the trading strategy he wishes to implement and make that better. Solving Financial Trading problems, including Dynamic Asset-Allocation to maximize Utility of Consumption, Pricing and Hedging of Derivatives in an Incomplete Market, Optimal Exercise/Stopping of Path-Dependent American Options – Optimal Trade Order Execution(managing Price Impact), Optimal Market-Making (Bid/Ask managing Inventory Risk)|
 | | |
 | -- | Task |
+| -- | Learnt about Markov Chains, Reward processes, and tabular algorithms to solve these data structures with a finite state space. |
+| -- | Learnt about concepts of linear algebra, matrix based comptations involving eigen vectors, concepts of probability, types of distributions, information theory, kl divergence and cross entropy losses. |
 | -- |  Creating and defining an ideal state-space, action-space, and reward mechanisms for Markov Decision Processes modelling different trading strategies, and also balancing the exploration exploitation tradeoffs for the same. |
 | --  | Implimenting and experimenting various Dynamic Programming Algorithms (Planning Algorithms: policy and value iteration), and a number of Reinforcement Learning Algorithms, including Gradient Temporal Difference, Deep Q-Network, Least- Squares Policy Iteration, Policy Gradient, Monte-Carlo Tree Search , to solve the Markov decision process. |
 | -- | Currently working on understanding the dynamics and trade-off points for implementing a Partially Observable Markov Decision Process, and impliment my learnings to solve Financial Trading problems, like Dynamic Asset-Allocation to maximize Utility of Consumption; Pricing and Hedging of Derivatives in an Incomplete Market; Optimal Trade Order Execution (managing Price Impact); Optimal Market-Making (Bid/Ask managing Inventory Risk) |
