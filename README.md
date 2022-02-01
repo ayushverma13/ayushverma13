@@ -21,6 +21,8 @@
 | -- | Learnt about Markov Chains, Reward processes, and tabular algorithms to solve these data structures with a finite state space. |
 | -- | Learnt about concepts of linear algebra, matrix based comptations involving eigen vectors, concepts of probability, types of distributions, information theory, kl divergence and cross entropy losses. |
 | -- |  Creating and defining an ideal state-space, action-space, and reward mechanisms for Markov Decision Processes modelling different trading strategies, and also balancing the exploration exploitation tradeoffs for the same. |
+| -- | Worked on utility functions, understanding accurially fair insurance premiums and risk premiums. |
+| -- | Worked with and understood relative and absolute risk aversions, uncertainty of outcomes, and calculating the risk premium. |
 | --  | Implimenting and experimenting various Dynamic Programming Algorithms (Planning Algorithms: policy and value iteration), and a number of Reinforcement Learning Algorithms, including Gradient Temporal Difference, Deep Q-Network, Least- Squares Policy Iteration, Policy Gradient, Monte-Carlo Tree Search , to solve the Markov decision process. |
 | -- | Currently working on understanding the dynamics and trade-off points for implementing a Partially Observable Markov Decision Process, and impliment my learnings to solve Financial Trading problems, like Dynamic Asset-Allocation to maximize Utility of Consumption; Pricing and Hedging of Derivatives in an Incomplete Market; Optimal Trade Order Execution (managing Price Impact); Optimal Market-Making (Bid/Ask managing Inventory Risk) |
 
