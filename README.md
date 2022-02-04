@@ -71,7 +71,7 @@
 https://user-images.githubusercontent.com/46970571/148010213-fca5510e-0028-45d3-bfd3-0900d3fb67d4.mp4
 
 ## Data Science Technologies PVT. LTD
-| Data Science Technologies PVT. LTD | Period of work (06/2020 - 11/2020) |
+| Data Science Technologies PVT. LTD | Period of work (06/2020 - 08/2020) |
 |:---------:|:----------------------------------:|
 | Role/Position | Intern Software Developer |
 | Impact | Independently built flask micro services, and deployed on AWS.|
