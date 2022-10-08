@@ -189,7 +189,23 @@ https://user-images.githubusercontent.com/46970571/148010213-fca5510e-0028-45d3-
 |:----------------------------------:|:---------:|:------------:|
 | Design and develop Fabric 2.1 applications from end- to-end using GoLang & Fabric Node | May 2021 | C-0d195999-3e3d-4d db-8efa- cdbacc1ac71f |
 | Hyperledger Fabric 2.x Network Design & Setup | May 2021 | C-0d195999-3e3d- 4ddb-8efa- cdbacc1ac71f |
-| Course | Date | Credential |
+
+## MITOCW
+| Course | Date | Credential ID |
+|:----------------------------------:|:---------:|:------------:|
+| 18.404J Theory of Computation, Fall 2020 | April 22 | NA |
+
+## StanfordOnline
+| Course | Date | Credential ID |
+|:----------------------------------:|:---------:|:------------:|
+| CS224N NLP with Deep Learning | June-July 22 | NA |
+| CS224U Natural Language Understanding | June-July 22 | NA |
+| CCS330 Deep Multi-task and Meta Learning | Sept 22 | NA |
+
+## NPTEL
+| Course | Date | Credential ID |
+|:----------------------------------:|:---------:|:------------:|
+| NA | NA | NA |
 
 # 💻: Programming Languages
 <p>
