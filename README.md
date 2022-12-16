@@ -26,9 +26,33 @@
 | --  | Implimenting and experimenting various Dynamic Programming Algorithms (Planning Algorithms: policy and value iteration), and a number of Reinforcement Learning Algorithms, including Gradient Temporal Difference, Deep Q-Network, Least- Squares Policy Iteration, Policy Gradient, Monte-Carlo Tree Search , to solve the Markov decision process. |
 | -- | Currently working on understanding the dynamics and trade-off points for implementing a Partially Observable Markov Decision Process, and impliment my learnings to solve Financial Trading problems, like Dynamic Asset-Allocation to maximize Utility of Consumption; Pricing and Hedging of Derivatives in an Incomplete Market; Optimal Trade Order Execution (managing Price Impact); Optimal Market-Making (Bid/Ask managing Inventory Risk) |
 
+## Gem Technologies
+| Gem Technologies | Period of work (05/2020 - Present) |
+|:---------:|:----------------------------------:|
+| Role/Position | Intern Software Developer |
+| Impact | Independently built a web based Process management tool, using AppScript on google suite linked to a flask microservice for prescriptive reports through Time series forecasting, along with a inventory management bot that helped in analysing the ideal inventory that needed to be maintained based on the order seasonality and raw material volatility .This solution helped in automating certain aspects of operation , and tracking of performance of departments within the factory like dispatches and production, and help highlight the painpoints and areas of delay in the lifecycle of a purchase order. Alos generated prescriptive reports based on cashflow analytics and raw material indexes for ideal asset allocation based on risk profiles at each stage. |
+| | |
+| Tools | Task |
+| Python, Linear Algebra, Reinforcement learning and dynamic programming algorithms,  | Researched on various Dynamic Programming and Reinforcement Learning algorithms( Policy and Value Iteration, Gradient Temporal Difference, Deep Q-Network, Least-Squares Policy Iteration, Policy Gradient, Backward Induction) for the Markov Decision Process created for an inventory management agent. implemented techniques balancing exploration and exploitation through various Multi-Armed Bandits techniques like Information State-Space algorithms, Thompson Sampling, Upper Confidence Bounds, and Gradient Bandits. Used a poisson distribution for the ordering policy with monthly sales forecasts as its lambda parameter ; the state space defined by these forecasted timeseries and raw material prices from LME; and monthly rewards as the negative of a dynamic stock holding and shortage of inventory costs.  |
+| -- | The agent here was trained on the historical sales and pricing data, the transit time, calculated through the difference of days in between issuing and subsequent delivery logged in the accounting software of a purchase order, and the inventory states defined by the annual gaps in sale and purchase of the product.|
+| Appscript for curating Google Suite apps | Built a web based Purchase order tracking tool, using AppScript on google suite for tracking its location in the pipeline from various stages in production, testing, logistics, accounts department.Linked this tool an analytics deck deployed through a Flask microservice for prescriptive report generation and Time series forecasting on sales data and payment cycles.This report helped in employee performance tracking and incentivising tasks based on scores recieved, eventually improving efficiency and reducing delays by 23% per month. |
+
+https://user-images.githubusercontent.com/46970571/148010213-fca5510e-0028-45d3-bfd3-0900d3fb67d4.mp4
+
 
 ## Deloitte
-| Deloitte USI Advisory | Period of work (11/2020 - Current) | 
+| Deloitte USI RFA | Period of work (06/2022 - Present) | 
+|:---------:|:----------------------------------:|
+| Role/Position | Solution Delivery Associate for the Securitization group (Securitization is the procedure where an issuer designs a marketable financial instrument by merging or pooling various financial assets into one group. The issuer then sells this group of repackaged assets to investors. Securitization offers opportunities for investors and frees up capital for originators, both of which promote liquidity in the marketplace.) | 
+| Impact | Developed a Proof of Concept solution to understand Procedural Knowledge from Technical Documents and generate queries corresponding to the understanding of those texts, therefore significantly reducing the number of manual hours charged to the same work to only due dilligence.|
+| | |
+| Tools | Task |
+| Python, AllenNLP |  Prepared validation data by annotating payrules from 50 deals with the correct First Order Logic (FOL) formula and list of predicates. (In case of nested payrules create a tree based structure to identify the leaf nodes to reconstruct the entire payrule as a list of sequential payrules leading to that leaf node) 
+|  | Used pre-trained AllenNLP models for Semantic Role Assignment (SRL) of the individual elements of that list. |
+|  | Used  Regex Match and data from SRL to get the best match to Predicates in validation data, and used Regex Capture Group to convert to the corresponding FOL. |
+|  | Finally used Regex Match and Context Free Grammar hashmap to convert the First Order Logic Terms to the query. |
+
+| Deloitte USI Advisory | Period of work (11/2020 - 05/2022) | 
 |:---------:|:----------------------------------:|
 | Role/Position | Solution Delivery Analyst for the Securitization group (Securitization is the procedure where an issuer designs a marketable financial instrument by merging or pooling various financial assets into one group. The issuer then sells this group of repackaged assets to investors. Securitization offers opportunities for investors and frees up capital for originators, both of which promote liquidity in the marketplace.) | 
 | Impact | The solution developed helped Deloitte prove to the client our capability to complete enormous amounts of work in a timely manner giving Deloitte the ability reduce the processing. time from multippl weeks to a day.|
@@ -57,18 +81,6 @@
 | Truffle, Metamask, Ganache, JavaScript, Python, Solidity | I achieved this using the Truffle IDE to create a front-end client interface, Solidity smart contracts enabling bidding and auction of the drugs on the catalogue on the basis of the remaining shelf life, a simple web client and a MetaMask client. |
 | -- | Created sample smart contracts for various applications and transactions to test and deploy them in the Remix development environment, and invoke them from a simple web interface that Remix provides. |
 
-## Gem Technologies
-| Gem Technologies | Period of work (05/2020 - 11/2020) |
-|:---------:|:----------------------------------:|
-| Role/Position | Intern Software Developer |
-| Impact | Independently built a web based Process management tool, using AppScript on google suite linked to a flask microservice for prescriptive reports through Time series forecasting, along with a inventory management bot that helped in analysing the ideal inventory that needed to be maintained based on the order seasonality and raw material volatility .This solution helped in automating certain aspects of operation , and tracking of performance of departments within the factory like dispatches and production, and help highlight the painpoints and areas of delay in the lifecycle of a purchase order. |
-| | |
-| Tools | Task |
-| Python, Linear Algebra, Reinforcement learning and dynamic programming algorithms,  | Researched on various Dynamic Programming and Reinforcement Learning algorithms( Policy and Value Iteration, Gradient Temporal Difference, Deep Q-Network, Least-Squares Policy Iteration, Policy Gradient, Backward Induction) for the Markov Decision Process created for an inventory management agent. implemented techniques balancing exploration and exploitation through various Multi-Armed Bandits techniques like Information State-Space algorithms, Thompson Sampling, Upper Confidence Bounds, and Gradient Bandits. Used a poisson distribution for the ordering policy with monthly sales forecasts as its lambda parameter ; the state space defined by these forecasted timeseries and raw material prices from LME; and monthly rewards as the negative of a dynamic stock holding and shortage of inventory costs.  |
-| -- | The agent here was trained on the historical sales and pricing data, the transit time, calculated through the difference of days in between issuing and subsequent delivery logged in the accounting software of a purchase order, and the inventory states defined by the annual gaps in sale and purchase of the product.|
-| Appscript for curating Google Suite apps | Built a web based Purchase order tracking tool, using AppScript on google suite for tracking its location in the pipeline from various stages in production, testing, logistics, accounts department.Linked this tool an analytics deck deployed through a Flask microservice for prescriptive report generation and Time series forecasting on sales data and payment cycles.This report helped in employee performance tracking and incentivising tasks based on scores recieved, eventually improving efficiency and reducing delays by 23% per month. |
-
-https://user-images.githubusercontent.com/46970571/148010213-fca5510e-0028-45d3-bfd3-0900d3fb67d4.mp4
 
 ## Data Science Technologies PVT. LTD
 | Data Science Technologies PVT. LTD | Period of work (06/2020 - 08/2020) |
